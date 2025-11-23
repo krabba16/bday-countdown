@@ -68,8 +68,8 @@ export default function App() {
   };
 
   //API Endpoint
-  const API_URL =
-    "https://m8k4ijx2z7.execute-api.ap-south-1.amazonaws.com/count";
+  const API_URL = import.meta.env.VITE_APP_API_URL;
+  // console.log("API URL:", API_URL);
 
   function handleData(val = null) {
     const data = val?.value ?? 0;

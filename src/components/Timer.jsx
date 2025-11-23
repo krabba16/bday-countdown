@@ -6,7 +6,7 @@ const Timer = ({ timeLeft, times }) => {
           {/*  Title   */}
           <div className="name">
             {/* <h2>Yoki's Birthday in:</h2> */}
-            <span class="bday">5 May 2026</span>
+            <span className="bday">5 May 2026</span>
             <h2>My Birthday in:</h2>
           </div>
           <div className="time">
