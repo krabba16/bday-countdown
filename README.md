@@ -18,8 +18,8 @@ This project also includes a visitor counter to track how many users have viewed
 
 ## 🛠️ Technologies Used
 
-- React
-- HTML, CSS, JavaScript (as needed)
+React
+HTML, CSS, JavaScript (as needed)
 
 ## 📂 Project Setup
 
@@ -38,3 +38,5 @@ npm start
 ```
 
 ## 📸 Preview
+
+![Image](https://github.com/user-attachments/assets/5e71b584-136d-4346-aa5e-77e5b0395e5c)
