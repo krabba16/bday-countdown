@@ -72,9 +72,12 @@ export default function App() {
   // console.log("API URL:", API_URL);
 
   function handleData(val = null) {
-    const data = val?.value ?? 0;
-    // console.log("DB Data", val.value);
-    setVisitors(data);
+    const data = Number(val?.value);
+    if (!isNaN(data) && data >= 0) {
+      setVisitors(data);
+    } else {
+      setVisitors(0);
+    }
   }
 
   useEffect(() => {
